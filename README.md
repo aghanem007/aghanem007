@@ -1,6 +1,6 @@
 ## Andrew Ghanem
 
-CS student at FIU, graduating December 2026. Based in Miami.
+CS student graduating December 2026, based in Miami.
 
 I mostly do backend work, but I've built and shipped full projects front to back. Some of what I've made:
 
